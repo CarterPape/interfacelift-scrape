@@ -1,2 +1,4 @@
 *.swp
 *.jpg
+.DS_Store
+Scraped images/*
